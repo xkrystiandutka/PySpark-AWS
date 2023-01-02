@@ -1,23 +1,4 @@
 # PySpark & AWS
-## Topics 
-- Introduction and importance of Big Data.
-- Practical explanation and live coding using PySpark.
-- Spark applications
-- Spark EcoSystem
-- Spark architecture
-- EcoSystem Hadoop
-- Hadoop architecture
-- PySpark RDD
-- PySpark RDD transformations
-- PySpark RDD actions
-- PySpark DataFrames
-- PySpark DataFrames Transformations
-- PySpark DataFrames Actions
-- Collaborative filtering in PySpark
-- Spark Streaming
-- ETL Pipeline
-- CDC and on-the-fly replication
-
 ## Project
 
 ### 1. Spark RDDs
